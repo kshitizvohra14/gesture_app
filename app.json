@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Paw Fusion",
+    "slug": "paw-fusion",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": false
+    },
+    "android": {},
+    "plugins": [
+      "expo-status-bar",
+      "expo-font"
+    ]
+  }
+}
